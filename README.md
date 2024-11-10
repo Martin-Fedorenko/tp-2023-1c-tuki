@@ -1,7 +1,10 @@
 # tp-2023-1c-tuki-Grupo-🔥🍔
 ## Descripción
 
-Proyecto ["T.U.K.I"](https://docs.google.com/document/d/1orfThJsPmMx5uPzbY3wClGhqX8jASMOCUMlWnYAr7cA/edit) es un sistema distribuido que simula el comportamiento de un sistema operativo real. Fue desarrollado para la asignatura Sistemas Operativos (SO) en la carrera de Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN-FRBA).
+["T.U.K.I"](https://docs.google.com/document/d/1orfThJsPmMx5uPzbY3wClGhqX8jASMOCUMlWnYAr7cA/edit) es un sistema distribuido que simula el comportamiento una CPU, un Kernel, una Memoria y un Filesystem en un sistema operativo real.
+
+Trabajo Práctico de Sistemas Opertativos en la carrera de Ingeniería en Sistemas de Información de la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires (UTN-FRBA).
+
 ## Guía de despliegue
 
 - Para realizar el despligue del proyecto ejecutar `./deploy.sh` desde la carpeta principal.
